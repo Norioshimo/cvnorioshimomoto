@@ -1,8 +1,8 @@
 # Tarea de la Unidad 3
-Crear curriculun viate y publicar en internet usando github pages
+Crear curriculum viate y publicar en internet, usar github pages
 
 
-### Información necesaria
+## Información necesaria
 
 * Nombres y apellidos.
 * Una imagen de contacto.
