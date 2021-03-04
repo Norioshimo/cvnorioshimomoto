@@ -27,5 +27,5 @@ Criterios
 * No utilizar frameworks CSS.
 
 ## Author
-Norio Shimomoto Gyotoku
-5.312.964
+* Norio Shimomoto Gyotoku
+* 5.312.964
