@@ -1,0 +1,190 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  font-family: "Open Sans", sans-serif;
+}
+
+
+#header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 300px;
+  padding: 0 15px;
+  background: #040b14;
+}
+
+
+#header .perfil h2 {
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+  -moz-text-align-last: center;
+  text-align-last: center;
+  font-family: "Poppins", sans-serif;
+}
+
+#header li{
+  list-style:none
+}
+
+
+#header .perfil img {
+  margin: 15px auto;
+  display: block;
+  width: 120px;
+  border: 8px solid #2c2f3f;
+  border-radius: 50%;
+}
+
+
+#header a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#header .nav-menu a:hover {
+  background: #ba68c8;
+}
+
+
+#main {
+  margin-left: 300px;
+}
+
+.nav-menu {
+  padding-top: 30px;
+}
+
+.nav-menu * {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu > ul > li {
+  position: relative;
+  white-space: nowrap;
+}
+
+.nav-menu a {
+  display: flex;
+  align-items: center;
+  color: #a8a9b4;
+  padding: 12px 15px;
+  margin-bottom: 8px;
+  transition: 0.3s;
+  font-size: 15px;
+}
+
+.nav-menu a i {
+  font-size: 24px;
+  padding-right: 8px;
+  color: #6f7180;
+}
+
+
+.nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
+  color: #ba68c8;
+}
+
+
+#footer {
+  padding: 15px;
+  color: #f4f6fd;
+  font-size: 14px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 300px;
+  background: #040b14;
+}
+
+#footer .copyright {
+  text-align: center;
+}
+
+#footer .desarrollado {
+  padding-top: 5px;
+  text-align: center;
+  font-size: 13px;
+  color: #eaebf0;
+}
+
+#footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer a:hover{
+  color: #ba68c8;
+}
+
+#main section{
+  padding-left: 45px;
+  padding-top: 12px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+
+
+.section-title {
+  padding-bottom: 30px;
+}
+
+.section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #173b6c;
+}
+
+.section-title h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #ba68c8;
+  bottom: 0;
+  left: 0;
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+#contacto .telefono, #contacto .correo{
+  padding-bottom: 15px;
+}
+
+
+#inicio img{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+
+.tableClass,th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.tableClass td{
+  vertical-align: top;
+}
+
+#experiencia li{
+  list-style:none
+}
+
