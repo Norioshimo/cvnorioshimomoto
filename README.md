@@ -1,5 +1,5 @@
 # Tarea de la Unidad 3
-Crear curriculum viate y publicar en internet, usar github pages
+Crear curriculum vitae y publicar en internet, usar github pages
 
 ## Author
 * Norio Shimomoto Gyotoku
