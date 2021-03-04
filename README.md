@@ -1,5 +1,5 @@
 # Tarea de la Unidad 3
-Crear curriculum vitae y publicar en internet, usar github pages
+Escribir un CV propio en HTML que resuma sus datos más importantes, y disponibilizarlo por medio de github
 
 ## Author
 * Norio Shimomoto Gyotoku
