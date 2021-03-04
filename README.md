@@ -1,6 +1,12 @@
 # Tarea de la Unidad 3
 Crear curriculum viate y publicar en internet, usar github pages
 
+## Author
+* Norio Shimomoto Gyotoku
+* 5.312.964
+* Pages: https://norioshimo.github.io/cvnorioshimomoto/
+* GitHub: https://github.com/Norioshimo/cvnorioshimomoto
+
 
 ## Información necesaria
 
@@ -26,6 +32,3 @@ Criterios
 * Se puede usar ficheros CSS simples, no es obligatorio pero es aceptable.
 * No utilizar frameworks CSS.
 
-## Author
-* Norio Shimomoto Gyotoku
-* 5.312.964
