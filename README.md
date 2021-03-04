@@ -25,3 +25,7 @@ Criterios
 ## Consideraciones Adicionales
 * Se puede usar ficheros CSS simples, no es obligatorio pero es aceptable.
 * No utilizar frameworks CSS.
+
+## Author
+Norio Shimomoto Gyotoku
+5.312.964
